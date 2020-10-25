@@ -1,0 +1,11 @@
+﻿## Title: simc
+## Notes: Prints information to a edit frame for use by simc
+## Author: Kapitol
+## Interface: 90001
+## Version: 0.1
+
+test.lua
+stats.lua
+print.lua
+commands.lua
+main.lua
